@@ -1,0 +1,92 @@
+
+/* -------------------- HOME PAGE ------------------- */
+
+
+.preheader{
+  background: #e65267;
+  width: 100%;
+  height: 30px;
+}
+
+#padding_banner{
+  height: 75px;
+  width: 100%;
+}
+
+#banner {
+width: 100%;
+height: 736px;
+background-image: url("../images/banner01.jpg");
+background-size: cover;
+}
+
+#presentation_img{
+  height: 524px;
+  width: 636px;
+  margin:auto;
+
+}
+
+.prefooter{
+  background: #2f2f3a;
+  width: 100%;
+  height:370px;
+}
+
+
+
+/* -------------------- FOOTER -------------------- */
+
+
+.footer{
+  background: #292933;
+  width: 100%;
+  height:105px;
+  padding-top: 45px;
+}
+
+/* -------------------- RESPONSIVE -------------------- */
+
+
+
+@media (max-width: 768px) {
+  .navbar{
+   min-height: 75px;
+  }
+}
+
+
+@media (max-width: 768px) {
+  #presentation_img{
+   display: none;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .jumbotron {
+    height: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  #banner{
+   height: 300px;
+  }
+}
+
+@media (max-width: 768px) {
+  .preheader{
+   height: 10px;
+  }
+}
+
+
+/* -------------------- GENERAL -------------------- */
+
+
+
+.mb100 {margin-bottom: 100px}
+.mb55 {margin-bottom: 55px}
+.mt65 {margin-top: 65px}
+.pink-color{color: #e65267}
+.withe-color{color:#fff}
