@@ -7,7 +7,7 @@
 ?>
           
 
-<!-- BANNER -->
+<!-- BANNER PHOTO DESSUS -->
 
     <div id="padding_banner"></div>
     <div id="banner"></div>
