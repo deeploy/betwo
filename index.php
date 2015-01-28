@@ -6,7 +6,7 @@
 
 ?>
           
-
+<!-- commencement du body ici -->
 <!-- BANNER PHOTO DESSUS -->
 
     <div id="padding_banner"></div>
